@@ -12,19 +12,19 @@ The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to
 
 | Release | Branch |
 |----------|----------|
-| [Arm GNU Toolchain 15.3.rel2](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.3.rel2?ref_type=heads) | `releases/15.3.rel2` |
-| [Arm GNU Toolchain 15.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.3.rel1?ref_type=heads) | `releases/15.3.rel1` |
-| [Arm GNU Toolchain 15.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.2.rel1?ref_type=heads) | `releases/15.2.rel1` |
-| [Arm GNU Toolchain 14.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.3.rel1?ref_type=heads) | `releases/14.3.rel1` |
-| [Arm GNU Toolchain 14.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.2.rel1?ref_type=heads) | `releases/14.2.rel1` |
-| [Arm GNU Toolchain 13.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/13.3.rel1?ref_type=heads) | `releases/13.3.rel1` |
-| [Arm GNU Toolchain 13.2.Rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/13.2.Rel1?ref_type=heads) | `releases/13.2.Rel1` |
-| [Arm GNU Toolchain 12.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.3.rel1?ref_type=heads) | `releases/12.3.rel1` |
-| [Arm GNU Toolchain 12.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.rel1?ref_type=heads) | `releases/12.2.rel1` |
-| [Arm GNU Toolchain 12.2.mpacbti-rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.mpacbti-rel1?ref_type=heads) | `releases/12.2.mpacbti-rel1` |
-| [Arm GNU Toolchain 12.2.mpacbti-bet1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.mpacbti-bet1?ref_type=heads) | `releases/12.2.mpacbti-bet1` |
-| [Arm GNU Toolchain 11.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.3.rel1?ref_type=heads) | `releases/11.3.rel1` |
-| [Arm GNU Toolchain 11.2-2022.02](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.2-2022.02?ref_type=heads) | `releases/11.2-2022.02` |
+| [Arm GNU Toolchain 15.3.rel2](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/15.3.rel2) | `releases/15.3.rel2` |
+| [Arm GNU Toolchain 15.3.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/15.3.rel1) | `releases/15.3.rel1` |
+| [Arm GNU Toolchain 15.2.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/15.2.rel1) | `releases/15.2.rel1` |
+| [Arm GNU Toolchain 14.3.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/14.3.rel1) | `releases/14.3.rel1` |
+| [Arm GNU Toolchain 14.2.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/14.2.rel1) | `releases/14.2.rel1` |
+| [Arm GNU Toolchain 13.3.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/13.3.rel1) | `releases/13.3.rel1` |
+| [Arm GNU Toolchain 13.2.Rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/13.2.Rel1) | `releases/13.2.Rel1` |
+| [Arm GNU Toolchain 12.3.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/12.3.rel1) | `releases/12.3.rel1` |
+| [Arm GNU Toolchain 12.2.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/12.2.rel1) | `releases/12.2.rel1` |
+| [Arm GNU Toolchain 12.2.mpacbti-rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/12.2.mpacbti-rel1) | `releases/12.2.mpacbti-rel1` |
+| [Arm GNU Toolchain 12.2.mpacbti-bet1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/12.2.mpacbti-bet1) | `releases/12.2.mpacbti-bet1` |
+| [Arm GNU Toolchain 11.3.rel1](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/11.3.rel1) | `releases/11.3.rel1` |
+| [Arm GNU Toolchain 11.2-2022.02](https://github.com/gengshuhui/gnu-toolchains-for-arm-adapt/tree/releases/11.2-2022.02) | `releases/11.2-2022.02` |
 
 ## Features
 
